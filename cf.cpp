@@ -20,17 +20,7 @@ using namespace std;
 void io(){
 
 
-    /* stuff you should look for
-    * read the questions twice (might have missed something imp.)
-    * int overflow, array bounds
-    * special cases (n=1?), set tle
-    * in case of segmentation fault check for ex- a variable declared more than once , or index becoming negative
-    * check TLE due to not clearing adjacency list for each test
-    * do something instead of nothing
-    * Stay organized
-    * BELIEVE in yourself
-    */
- 
+   
 
     FIO;
 }
