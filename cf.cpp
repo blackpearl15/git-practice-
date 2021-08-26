@@ -48,17 +48,7 @@ void solve(ll cnt){
     }
 
     sort(s.begin(),s.end());
-   // cout << s << endl;
-
-    // for(auto it :m1){
-    //     cout << it.first << endl;
-    //     for(auto a : it.second){
-    //         cout << a << space ;
-
-    //     }
-    //     cout << endl;
-    // }
-    // cout << endl;
+   
     j = n-1;
 
     while(i<=j){
