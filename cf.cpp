@@ -17,13 +17,6 @@ using namespace std;
 #define no              cout << "NO" << endl
 
 
-void io(){
-
-
-   
-
-    FIO;
-}
 void solve(ll cnt){
     ll n{},m{},a{},b{},c{},d{},e{},ok{},flag{},k{},i{},
     j{},sum{};
@@ -108,7 +101,6 @@ void solve(ll cnt){
 int main()
 {
     
-    io();
     ll cnt{};
     w(t)
     {
